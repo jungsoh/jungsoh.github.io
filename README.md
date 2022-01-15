@@ -13,6 +13,7 @@ I have managed several multi-disciplinary teams and collaborated with people wit
 [Cat vs non-cat image classifier](https://jungsoh.github.io/cat-vs-noncat-image-classifier)
 
 ## Teaching
+[Introductory scripting course](https://jungsoh.github.io/intro-scripting-course)
 
 ## Publications
 
