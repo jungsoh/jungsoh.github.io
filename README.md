@@ -9,11 +9,15 @@ My earlier work before biological data analysis was on computer vision, includin
 I have managed several multi-disciplinary teams and collaborated with people with diverse background and expertise. In any team, I strive to achieve a shared sense of purpose, resolve conflicts and reach consensus.
 
 ## Projects
+The project pages are being built and will keep expanding.
 
-[Cat vs non-cat image classifier](https://jungsoh.github.io/cat-vs-noncat-image-classifier)
+- [Cat vs non-cat image classifier](https://jungsoh.github.io/cat-vs-noncat-image-classifier)
 
 ## Teaching
-[Introductory scripting course](https://jungsoh.github.io/intro-scripting-course)
+While at [Graz University of Technology](https://tugraz.at/en/home) and earlier at the [University of Calgary](https://ucalgary.ca), I have developed material for and taught courses in Python/R/Bash scripting, bioinformatics labs, and special topics in bioinformatics.
+
+- [Introductory scripting course](https://jungsoh.github.io/intro-scripting-course)
+- [Bioinformatics lab course](https://jungsoh.github.io/bioinformatics-lab-course)
 
 ## Publications
 
