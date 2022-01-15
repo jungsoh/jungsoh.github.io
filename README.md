@@ -19,6 +19,7 @@ While at [Graz University of Technology](https://tugraz.at/en/home) and earlier 
 - [Introductory scripting course](https://jungsoh.github.io/intro-scripting-course)
 - [Bioinformatics lab course](https://jungsoh.github.io/bioinformatics-lab-course)
 - [High-throughput sequence data handling course](https://jungsoh.github.io/high-throughput-sequence-data-handling-course)
+- [Transcriptomics course](https://jungsoh.github.io/transcriptomics-course)
 
 ## Publications
 
