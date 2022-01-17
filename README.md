@@ -36,11 +36,11 @@ I am an inventor on these issued US patents:
 - M.S. Computer Science, University at Buffalo
 - B.S. Electrical Engineering, University of Wisconsin-Madison
 
-# Certifications
+## Certifications
 - [Machine Learning with TensorFlow on Google Cloud Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/GV5XVN7LY8FQ), Coursera, by Google Cloud, Dec 2021
 - [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/4Y69NCMCBNW3), Coursera, by DeepLearning.AI, Oct 2021
 - [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/AVQ6HFNUEJJ8), Coursera, by DeepLearning.AI, Oct 2021
 - [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/45VRDQRQJ8WD), Coursera, by Google, Nov 2021
 
-# More information
+## More information
 For more information about me, you can see my [LinkedIn](https://www.linkedin.com/in/jungsoh/) and [GitHub](https://github.com/jungsoh).
