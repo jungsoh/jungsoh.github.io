@@ -33,3 +33,6 @@ I am an inventor on these issued US patents:
 - [Image retrieval system and method using image histogram](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=6621926.PN.&OS=PN/6621926&RS=PN/6621926), US 6,621,926, issued Sep 16, 2003
 
 ## Education
+- Ph.D. Computer Science, University at Buffalo
+- M.S. Computer Science, University at Buffalo
+- B.S. Electrical Engineering, University of Wisconsin-Madison
