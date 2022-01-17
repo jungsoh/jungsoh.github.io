@@ -21,7 +21,7 @@ While at [Graz University of Technology](https://tugraz.at/en/home) and earlier 
 - [Transcriptomics course](https://jungsoh.github.io/transcriptomics-course)
 
 ## Publications
-Most of my publications can be accessed through my [Google Scholar Profile](https://scholar.google.ca/citations?user=52h5BqQAAAAJ&hl=en).
+Most of my publications can be accessed through my [Google Scholar](https://scholar.google.ca/citations?user=52h5BqQAAAAJ&hl=en).
 
 ## Patents
 I am an inventor on these issued US patents:
