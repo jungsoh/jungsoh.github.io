@@ -41,3 +41,6 @@ I am an inventor on these issued US patents:
 - [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/4Y69NCMCBNW3), Coursera, by DeepLearning.AI, Oct 2021
 - [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/AVQ6HFNUEJJ8), Coursera, by DeepLearning.AI, Oct 2021
 - [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/45VRDQRQJ8WD), Coursera, by Google, Nov 2021
+
+# More information
+For more information about me, you can see my [LinkedIn](https://www.linkedin.com/in/jungsoh/) and [GitHub](https://github.com/jungsoh).
