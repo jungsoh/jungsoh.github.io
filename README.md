@@ -9,8 +9,7 @@ My earlier work before biological data analysis was on computer vision, includin
 I have managed several multi-disciplinary teams and collaborated with people with diverse background and expertise. In any team, I strive to achieve a shared sense of purpose, resolve conflicts and reach consensus.
 
 ## Projects
-The project pages are being built and will keep expanding.
-
+I have just started uploading my projects, so the list is growing.
 - [Cat vs non-cat image classifier](https://jungsoh.github.io/cat-vs-noncat-image-classifier)
 
 ## Teaching
