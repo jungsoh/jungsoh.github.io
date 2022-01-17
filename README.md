@@ -22,7 +22,14 @@ While at [Graz University of Technology](https://tugraz.at/en/home) and earlier 
 - [Transcriptomics course](https://jungsoh.github.io/transcriptomics-course)
 
 ## Publications
+Most of my publications can be accessed through my [Google Scholar Profile](https://scholar.google.ca/citations?user=52h5BqQAAAAJ&hl=en).
 
 ## Patents
+I am an inventor on these issued US patents:
+- [Methods for treating and detecting sepsis in humans](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=10793906.PN.&OS=PN/10793906&RS=PN/10793906), US 10,793,906, Oct 6, 2020
+- [Apparatus for online signature verification using pattern transform technique and method therefor](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=7454042.PN.&OS=PN/7454042&RS=PN/7454042), US 7,454,042, Nov 18, 2008
+- [Face detecting system and method using symmetric axisFace detecting system and method using symmetric axis](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=7426287.PN.&OS=PN/7426287&RS=PN/7426287), US 7,426,287, Sep 16, 2008
+- [Method and apparatus for estimating camera motion](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=6710844.PN.&OS=PN/6710844&RS=PN/6710844), US 6,710,844, Mar 23, 2004
+- [Image retrieval system and method using image histogram](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=6621926.PN.&OS=PN/6621926&RS=PN/6621926), US 6,621,926, issued Sep 16, 2003
 
 ## Education
