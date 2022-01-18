@@ -13,6 +13,15 @@ I have just started uploading my projects, so the list is growing.
 - [Cat vs non-cat image classifier](https://jungsoh.github.io/cat-vs-noncat-image-classifier)
 - [Sign language digit recognizer](https://jungsoh.github.io/sign-language-digit-recognizer)
 
+<table>
+  <tr>
+    <td><a href='https://jungsoh.github.io/cat-vs-noncat-image-classifier'><img src='images/white_cat.jpg' width=250><br>Cat vs non-cat image classifier</a>
+    <td>
+  <tr>
+    <td>
+    <td>
+</table>
+  
 ## Teaching
 While at [Graz University of Technology](https://tugraz.at/en/home) and earlier at the [University of Calgary](https://ucalgary.ca), I have developed material for and taught courses in Python/R/Bash scripting, bioinformatics labs, and special topics in bioinformatics.
 
