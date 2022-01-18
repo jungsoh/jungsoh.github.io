@@ -10,17 +10,11 @@ I have managed several multi-disciplinary teams and collaborated with people wit
 
 ## Projects
 I have just started uploading my projects, so the list is growing.
-- [Cat vs non-cat image classifier](https://jungsoh.github.io/cat-vs-noncat-image-classifier)
-- [Sign language digit recognizer](https://jungsoh.github.io/sign-language-digit-recognizer)
 
 <table>
   <tr>
-    <td><a href='https://jungsoh.github.io/cat-vs-noncat-image-classifier'><img src='images/white_cat.jpg' width=250><br>Cat vs non-cat image classifier</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
+    <td><a href='https://jungsoh.github.io/cat-vs-noncat-image-classifier'><img src='images/white_cat.jpg' width=180><br>Cat vs non-cat image classifier</a></td>
+    <td><a href='https://jungsoh.github.io/sing-language-digit-recognizer'><img src='images/thumbs_up.jpg' width=180><br>Sign language digit recognizer</a></td>
   </tr>
 </table>
   
