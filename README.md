@@ -17,9 +17,11 @@ I have just started uploading my projects, so the list is growing.
   <tr>
     <td><a href='https://jungsoh.github.io/cat-vs-noncat-image-classifier'><img src='images/white_cat.jpg' width=250><br>Cat vs non-cat image classifier</a>
     <td>
+  </tr>
   <tr>
     <td>
     <td>
+  </tr>
 </table>
   
 ## Teaching
