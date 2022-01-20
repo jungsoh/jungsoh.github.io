@@ -11,29 +11,23 @@ I have managed several multi-disciplinary teams and collaborated with people wit
 ## Projects
 I have just started uploading my projects, so the list is expanding.
 
-<table>
+<table style='font-size: small;'>
   <tr>
-    <td>
+    <td width=25%>
       <a href='https://jungsoh.github.io/dnn-cat-vs-noncat-classifier'>
-        <img src='images/white_cat.jpg' width=180><br>Cat vs non-cat classifier<br>(deep neural network)</a>
+        <img src='images/white_cat.jpg' width=150><br>Cat vs non-cat classifier<br>(deep neural network)</small></a>
     </td>
-    <td>
+    <td width=25%>
       <a href='https://jungsoh.github.io/dnn-sign-language-digit-recognizer'>
-        <img src='images/thumbs_up.jpg' width=180><br>Sign language digit recognizer<br>(deep neural network></a>
+        <img src='images/thumbs_up.jpg' width=150><br>Sign language digit recognizer<br>(deep neural network></a>
     </td>
-    <td>
+    <td width=25%>
       <a href='https://jungsoh.github.io/cnn-face-mood-classifier'>
-        <img src='images/smiley.png' width=180><br>Face mood classifier<br>(convolutional neural network)</a>
+        <img src='images/smiley.png' width=150><br>Face mood classifier<br>(convolutional neural network)</a>
     </td>
-  </tr>
-  <tr>
-    <td>
+    <td width=25%>
       <a href='https://jungsoh.github.io/cnn-sign-language-digit-recognizer'>
-      <img src='images/thumbs_up.jpg' width=180><br>Sign language digit recognizer<br>(convolutional neural network)</a>
-    </td>
-    <td>
-    </td>
-    <td>
+      <img src='images/thumbs_up.jpg' width=150><br>Sign language digit recognizer<br>(convolutional neural network)</a>
     </td>
   </tr>
 </table>
