@@ -9,7 +9,7 @@ My earlier work before biological data analysis was on computer vision, includin
 I have managed several multi-disciplinary teams and collaborated with people with diverse background and expertise. In any team, I strive to achieve a shared sense of purpose, resolve conflicts and reach consensus.
 
 ## Projects
-I have just started uploading my projects, so the list is growing.
+I have just started uploading my projects, so the list is expanding.
 
 <table>
   <tr>
@@ -19,8 +19,8 @@ I have just started uploading my projects, so the list is growing.
   </tr>
   <tr>
     <td><a href='https://jungsoh.github.io/cnn-sign-language-digit-recognizer'><img src='images/thumbs_up.jpg' width=180><br>CNN: Sign language digit recognizer</a></td>
-    <td></tfd>
-    <td></tfd>
+    <td></td>
+    <td></td>
   </tr>
 </table>
   
