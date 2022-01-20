@@ -15,7 +15,7 @@ I have just started uploading my projects, so the list is growing.
   <tr>
     <td><a href='https://jungsoh.github.io/cat-vs-noncat-image-classifier'><img src='images/white_cat.jpg' width=180><br>Cat vs non-cat image classifier</a></td>
     <td><a href='https://jungsoh.github.io/sign-language-digit-recognizer'><img src='images/thumbs_up.jpg' width=180><br>Sign language digit recognizer</a></td>
-    <td><a href='https://jungsoh.github.io/face-mood-classifier'>:smile::laughing:<br>Face mood classifier</a></td>
+    <td><a href='https://jungsoh.github.io/face-mood-classifier'><img src='images/smiley.png' width=180><br>Face mood classifier</a></td>
   </tr>
 </table>
   
