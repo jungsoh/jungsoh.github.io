@@ -12,23 +12,35 @@ I have experience managing several multi-disciplinary teams and collaborated wit
 I have just started uploading my projects, so the list is expanding.
 
 <table>
-  <tr>
+  <tr align='center'>
     <td>
       <a href='https://jungsoh.github.io/dnn-cat-vs-noncat-classification'>
-        <img src='images/white_cat.jpg' width=150><br>Cat vs non-cat classificationr<br>(deep neural network)</a>
+        <img src='images/white_cat.jpg' width=160><br>Cat vs non-cat classification<br>(deep neural network)</a>
     </td>
     <td>
       <a href='https://jungsoh.github.io/dnn-sign-language-recognition'>
-        <img src='images/thumbs_up.jpg' width=150><br>Sign language recognition<br>(deep neural network)</a>
+        <img src='images/thumbs_up.jpg' width=120><br>Sign language recognition<br>(deep neural network)</a>
     </td>
     <td>
       <a href='https://jungsoh.github.io/cnn-face-mood-classification'>
-        <img src='images/smiley.png' width=150><br>Face mood classification<br>(convolutional neural network)</a>
+        <img src='images/smiley.png' width=120><br>Face mood classification<br>(convolutional neural network)</a>
     </td>
     <td>
       <a href='https://jungsoh.github.io/cnn-sign-language-recognition'>
-      <img src='images/thumbs_up.jpg' width=150><br>Sign language recognition<br>(convolutional neural network)</a>
+      <img src='images/cnn_sign_lang.png' width=200><br>Sign language recognition<br>(convolutional neural network)</a>
     </td>
+  </tr>
+    <td>
+      <a href='https://jungsoh.github.io/resnet-sign-language-recognition'>
+        <img src='images/resnet_kiank.jpg' width=160><br>Sign language recogntion<br>(residual neural network)</a>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  <tr>
   </tr>
 </table>
   
