@@ -49,16 +49,11 @@ I have just started uploading my machine learning projects, so the list is expan
 ## Teaching
   
 While at [Graz University of Technology](https://tugraz.at/en/home) and earlier at the [University of Calgary](https://ucalgary.ca), I have developed material for and taught courses in Python/R/Bash scripting, bioinformatics labs, and special topics in bioinformatics.
-<details><summary>More</summary>
-<p>
-  
+
 - [Introductory scripting course](https://jungsoh.github.io/intro-scripting-course)
 - [Bioinformatics lab course](https://jungsoh.github.io/bioinformatics-lab-course)
 - [High-throughput sequence data handling course](https://jungsoh.github.io/high-throughput-sequence-data-handling-course)
 - [Transcriptomics course](https://jungsoh.github.io/transcriptomics-course)
-
-</p>
-</details>
 
 ## Publications
 Most of my publications can be accessed through my [Google Scholar](https://scholar.google.ca/citations?user=52h5BqQAAAAJ&hl=en).
@@ -81,6 +76,7 @@ I am an inventor on these issued US patents:
 - [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/4Y69NCMCBNW3), Coursera, by DeepLearning.AI, Oct 2021
 - [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/AVQ6HFNUEJJ8), Coursera, by DeepLearning.AI, Oct 2021
 - [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/45VRDQRQJ8WD), Coursera, by Google, Nov 2021
+- [Advance Your Skills in Predictive Analytics]('certificates/CertificateOfCompletion_Advance Your Skills in Predictive Analytics.pdf')
 
 ## More information
 For more information about me, you can see my [LinkedIn](https://www.linkedin.com/in/jungsoh/) and [GitHub](https://github.com/jungsoh).
