@@ -36,6 +36,8 @@ I have just started uploading my machine learning projects, so the list is expan
         <img src='images/resnet_kiank.png' width=200><br>Sign language recogntion<br>(residual neural network)</a>
     </td>
     <td>
+      <a href='https://jungsoh.github.io/tl-mobilenetv2-alpaca-vs-nonalpaca-classification'>
+        <img src='images/alpaca.png' width=200><br>Alcapa vs non-alcapa classification<br>(transfer learning with MobileNetV3)</a>
     </td>
     <td>
     </td>
