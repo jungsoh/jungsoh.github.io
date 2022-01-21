@@ -30,6 +30,7 @@ I have just started uploading my projects, so the list is expanding.
       <img src='images/cnn_sign_lang.png' width=200><br>Sign language recognition<br>(convolutional neural network)</a>
     </td>
   </tr>
+  <tr align='center'>
     <td>
       <a href='https://jungsoh.github.io/resnet-sign-language-recognition'>
         <img src='images/resnet_kiank.png' width=160><br>Sign language recogntion<br>(residual neural network)</a>
@@ -40,7 +41,6 @@ I have just started uploading my projects, so the list is expanding.
     </td>
     <td>
     </td>
-  <tr>
   </tr>
 </table>
   
