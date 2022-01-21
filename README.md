@@ -14,20 +14,20 @@ I have just started uploading my projects, so the list is expanding.
 <table>
   <tr>
     <td>
-      <a href='https://jungsoh.github.io/dnn-cat-vs-noncat-classifier'>
-        <img src='images/white_cat.jpg' width=150><br>Cat vs non-cat classifier<br>(deep neural network)</a>
+      <a href='https://jungsoh.github.io/dnn-cat-vs-noncat-classification'>
+        <img src='images/white_cat.jpg' width=150><br>Cat vs non-cat classificationr<br>(deep neural network)</a>
     </td>
     <td>
-      <a href='https://jungsoh.github.io/dnn-sign-language-digit-recognizer'>
-        <img src='images/thumbs_up.jpg' width=150><br>Sign language digit recognizer<br>(deep neural network)</a>
+      <a href='https://jungsoh.github.io/dnn-sign-language-recognition'>
+        <img src='images/thumbs_up.jpg' width=150><br>Sign language recognition<br>(deep neural network)</a>
     </td>
     <td>
-      <a href='https://jungsoh.github.io/cnn-face-mood-classifier'>
-        <img src='images/smiley.png' width=150><br>Face mood classifier<br>(convolutional neural network)</a>
+      <a href='https://jungsoh.github.io/cnn-face-mood-classification'>
+        <img src='images/smiley.png' width=150><br>Face mood classification<br>(convolutional neural network)</a>
     </td>
     <td>
-      <a href='https://jungsoh.github.io/cnn-sign-language-digit-recognizer'>
-      <img src='images/thumbs_up.jpg' width=150><br>Sign language digit recognizer<br>(convolutional neural network)</a>
+      <a href='https://jungsoh.github.io/cnn-sign-language-recognition'>
+      <img src='images/thumbs_up.jpg' width=150><br>Sign language recognition<br>(convolutional neural network)</a>
     </td>
   </tr>
 </table>
