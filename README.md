@@ -78,7 +78,8 @@ I am an inventor on these issued US patents:
 - [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/45VRDQRQJ8WD), Coursera, by Google, Nov 2021
 - [Advance Your Skills in Predictive Analytics](certs/predictive_analytics.pdf), LinkedIn Learning Path, Apr 2021
 - [Understanding Cloud Fundamentals](certs/cloud_fundamentals.pdf), LinkedIn Learning Path, Apr 2021
-
+- Sun Certified Web Component Developer for the Java 2 Platform, Enterprise Edition 1.4 (SCWCD 1.4), Sun Microsystems, Oct 2005
+- Sun Certified Programmer for the Java 2 Platform, Standard Edition 5.0 (SCJP 5.0), Sun Microsystems, Jul 2005
 
 ## More information
 For more information about me, you can see my [LinkedIn](https://www.linkedin.com/in/jungsoh/) and [GitHub](https://github.com/jungsoh).
