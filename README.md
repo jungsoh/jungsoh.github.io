@@ -76,8 +76,8 @@ I am an inventor on these issued US patents:
 - [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/4Y69NCMCBNW3), Coursera, by DeepLearning.AI, Oct 2021
 - [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/AVQ6HFNUEJJ8), Coursera, by DeepLearning.AI, Oct 2021
 - [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/45VRDQRQJ8WD), Coursera, by Google, Nov 2021
-- [Advance Your Skills in Predictive Analytics](certificates/predictive_analytics.pdf), LinkedIn Learning Path, Apr 2021
-- [Understanding Cloud Fundamentals](certificates/cloud_fundamentals.pdf), LinkedIn Learning Path, Apr 2021
+- [Advance Your Skills in Predictive Analytics](certs/predictive_analytics.pdf), LinkedIn Learning Path, Apr 2021
+- [Understanding Cloud Fundamentals](certs/cloud_fundamentals.pdf), LinkedIn Learning Path, Apr 2021
 
 
 ## More information
