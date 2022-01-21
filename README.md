@@ -9,7 +9,7 @@ My earlier work before biological data analysis was on computer vision, includin
 I have experience managing several multi-disciplinary teams and collaborated with subject matter experts with diverse expertise, including statisticians, biologists, IT administrators, and project managers.
 
 ## Projects
-I have just started uploading my projects, so the list is expanding.
+I have just started uploading my machine learning projects, so the list is expanding.
 
 <table>
   <tr align='center'>
