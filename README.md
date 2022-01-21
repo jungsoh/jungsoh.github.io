@@ -32,7 +32,7 @@ I have just started uploading my projects, so the list is expanding.
   </tr>
     <td>
       <a href='https://jungsoh.github.io/resnet-sign-language-recognition'>
-        <img src='images/resnet_kiank.jpg' width=160><br>Sign language recogntion<br>(residual neural network)</a>
+        <img src='images/resnet_kiank.png' width=160><br>Sign language recogntion<br>(residual neural network)</a>
     </td>
     <td>
     </td>
