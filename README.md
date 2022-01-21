@@ -30,6 +30,18 @@ I have just started uploading my projects, so the list is expanding.
       <img src='images/cnn_sign_lang.png' width=200><br>Sign language recognition<br>(convolutional neural network)</a>
     </td>
   </tr>
+    <td>
+      <a href='https://jungsoh.github.io/resnet-sign-language-recognition'>
+        <img src='images/resnet_kiank.jpg' width=160><br>Sign language recogntion<br>(residual neural network)</a>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  <tr>
+  </tr>
 </table>
   
 ## Teaching
