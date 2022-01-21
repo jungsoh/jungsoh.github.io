@@ -27,7 +27,7 @@ I have just started uploading my projects, so the list is expanding.
     </td>
     <td>
       <a href='https://jungsoh.github.io/cnn-sign-language-recognition'>
-      <img src='images/thumbs_up.jpg' width=150><br>Sign language recognition<br>(convolutional neural network)</a>
+      <img src='images/cnn_sign_lang.png' width=180><br>Sign language recognition<br>(convolutional neural network)</a>
     </td>
   </tr>
 </table>
