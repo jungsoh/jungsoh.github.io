@@ -37,7 +37,7 @@ I have just started uploading my machine learning projects, so the list is expan
     </td>
     <td>
       <a href='https://jungsoh.github.io/tl-mobilenetv2-alpaca-vs-nonalpaca-classification'>
-        <img src='images/alpaca.png' width=200><br>Alcapa vs non-alcapa classification<br>(transfer learning with MobileNetV3)</a>
+        <img src='images/alpaca.png' width=120><br>Alcapa vs non-alcapa classification<br>(transfer learning with MobileNetV2)</a>
     </td>
     <td>
     </td>
