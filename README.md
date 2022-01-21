@@ -45,14 +45,18 @@ I have just started uploading my machine learning projects, so the list is expan
     </td>
   </tr>
 </table>
-  
+
 ## Teaching
+  
 While at [Graz University of Technology](https://tugraz.at/en/home) and earlier at the [University of Calgary](https://ucalgary.ca), I have developed material for and taught courses in Python/R/Bash scripting, bioinformatics labs, and special topics in bioinformatics.
+<details>
+  <summary>More</summary>
 
 - [Introductory scripting course](https://jungsoh.github.io/intro-scripting-course)
 - [Bioinformatics lab course](https://jungsoh.github.io/bioinformatics-lab-course)
 - [High-throughput sequence data handling course](https://jungsoh.github.io/high-throughput-sequence-data-handling-course)
 - [Transcriptomics course](https://jungsoh.github.io/transcriptomics-course)
+</details>
 
 ## Publications
 Most of my publications can be accessed through my [Google Scholar](https://scholar.google.ca/citations?user=52h5BqQAAAAJ&hl=en).
