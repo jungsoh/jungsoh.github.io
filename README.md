@@ -40,8 +40,8 @@ I have just started uploading my machine learning projects, so the list is expan
         <img src='images/alpaca.png' width=120><br>Alcapa vs non-alcapa classification<br>(transfer learning with MobileNetV2)</a>
     </td>
     <td>
-       <a href='https://jungsoh.github.io/yolo-car-detection-for-autonomous-navigation'>
-        <img src='images/proba_map.png' width=200><br>Car detection for autonomous navigation<br>(YOLO algorithm)</a>
+       <a href='https://jungsoh.github.io/yolo-car-detection-for-autonomous-driving'>
+        <img src='images/proba_map.png' width=200><br>Car detection for autonomous driving<br>(YOLO algorithm)</a>
     </td>
     <td>
     </td>
