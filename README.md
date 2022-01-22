@@ -44,6 +44,8 @@ I have just started uploading my machine learning projects, so the list is expan
         <img src='images/proba_map.png' width=200><br>Car detection for autonomous driving<br>(YOLO algorithm)</a>
     </td>
     <td>
+       <a href='https://jungsoh.github.io/unet-semantic-image-segmentation'>
+        <img src='images/carseg.png' width=200><br>Semantic image segmentation<br>(U-Net)</a>
     </td>
   </tr>
 </table>
