@@ -55,7 +55,7 @@ I have just started uploading my machine learning projects, so the list is expan
     </td>
     <td>
        <a href='https://jungsoh.github.io/nst-merging-content-and-style'>
-         <img src='images/content_plus_style.png' width=200><br>Merging content and style<br>(neural style transfer)</a>
+         <img src='images/content_plus_style.png' width=180><br>Merging content and style<br>(neural style transfer)</a>
     </td>
     <td>
     </td>
