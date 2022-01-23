@@ -23,7 +23,7 @@ I have just started uploading my machine learning projects, so the list is expan
     </td>
     <td>
       <a href='https://jungsoh.github.io/cnn-face-mood-classification'>
-        <img src='images/happy_sad_balloons.jpg' width=120><br>Face mood classification<br>(convolutional neural network)</a>
+        <img src='images/happy_sad_balloons.jpg' width=160><br>Face mood classification<br>(convolutional neural network)</a>
     </td>
     <td>
       <a href='https://jungsoh.github.io/cnn-sign-language-recognition'>
