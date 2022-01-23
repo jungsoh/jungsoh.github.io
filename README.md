@@ -54,6 +54,8 @@ I have just started uploading my machine learning projects, so the list is expan
         <img src='images/jung.jpg' width=120><br>Face verification and face recognition<br>(FaceNet)</a>
     </td>
     <td>
+       <a href='https://jungsoh.github.io/nts-merging-content-and-style'>
+         <img src='images/content_plus_style.png' width=200><br>Merging content and style<br>(neural style transfer)</a>
     </td>
     <td>
     </td>
