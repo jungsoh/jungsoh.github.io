@@ -48,6 +48,18 @@ I have just started uploading my machine learning projects, so the list is expan
         <img src='images/carseg.png' width=200><br>Semantic image segmentation<br>(U-Net)</a>
     </td>
   </tr>
+  <tr align='center'>
+    <td>
+       <a href='https://jungsoh.github.io/facenet-face-verification-and-face-recognition'>
+        <img src='images/jung.jpg' width=120><br>Face verification and face recognition<br>(FaceNet)</a>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
 </table>
 
 ## Teaching
