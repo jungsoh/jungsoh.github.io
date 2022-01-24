@@ -49,9 +49,11 @@
     </td>
     <td>
        <a href='https://jungsoh.github.io/rnn-character-level-language-model'>
-         <img src='images/rnn.png' width=200><br>Character-level language moel<br>(Recurrent neural network)</a>
+         <img src='images/rnn.png' width=200><br>Character-level language model<br>(Recurrent neural network)</a>
     </td>
     <td>
+       <a href='https://jungsoh.github.io/lstm-music-generation'>
+         <img src='images/jazz.jpg' width=160><br>Music generation<br>(LSTM)</a>
     </td>
   </tr>
 </table>
