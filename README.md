@@ -5,29 +5,29 @@
   <tr align='center'>
     <td>
       <a href='https://jungsoh.github.io/dnn-cat-vs-noncat-classification'>
-        <img src='images/white_cat.jpg' width=160><br>Cat vs non-cat classification<br>(deep neural network)</a>
+        <img src='images/white_cat.jpg' width=160><br>Cat vs non-cat classification<br>(Deep neural network)</a>
     </td>
     <td>
       <a href='https://jungsoh.github.io/dnn-sign-language-recognition'>
-        <img src='images/thumbs_up.jpg' width=120><br>Sign language recognition<br>(deep neural network)</a>
+        <img src='images/thumbs_up.jpg' width=120><br>Sign language recognition<br>(Deep neural network)</a>
     </td>
     <td>
       <a href='https://jungsoh.github.io/cnn-face-mood-classification'>
-        <img src='images/happy_sad_balloons.jpg' width=160><br>Face mood classification<br>(convolutional neural network)</a>
+        <img src='images/happy_sad_balloons.jpg' width=160><br>Face mood classification<br>(Convolutional neural network)</a>
     </td>
     <td>
       <a href='https://jungsoh.github.io/cnn-sign-language-recognition'>
-      <img src='images/cnn_sign_lang.png' width=200><br>Sign language recognition<br>(convolutional neural network)</a>
+      <img src='images/cnn_sign_lang.png' width=200><br>Sign language recognition<br>(Convolutional neural network)</a>
     </td>
   </tr>
   <tr align='center'>
     <td>
       <a href='https://jungsoh.github.io/resnet-sign-language-recognition'>
-        <img src='images/resnet_kiank.png' width=200><br>Sign language recogntion<br>(residual neural network)</a>
+        <img src='images/resnet_kiank.png' width=200><br>Sign language recogntion<br>(Residual neural network)</a>
     </td>
     <td>
       <a href='https://jungsoh.github.io/tl-mobilenetv2-alpaca-vs-nonalpaca-classification'>
-        <img src='images/alpaca.png' width=120><br>Alcapa vs non-alcapa classification<br>(transfer learning with MobileNetV2)</a>
+        <img src='images/alpaca.png' width=120><br>Alcapa vs non-alcapa classification<br>(Transfer learning with MobileNetV2)</a>
     </td>
     <td>
        <a href='https://jungsoh.github.io/yolo-car-detection-for-autonomous-driving'>
@@ -45,11 +45,11 @@
     </td>
     <td>
        <a href='https://jungsoh.github.io/nst-merging-content-and-style'>
-         <img src='images/content_plus_style.png' width=180><br>Merging content and style<br>(neural style transfer)</a>
+         <img src='images/content_plus_style.png' width=180><br>Merging content and style<br>(Neural style transfer)</a>
     </td>
     <td>
        <a href='https://jungsoh.github.io/rnn-character-level-language-model'>
-         <img src='images/rnn.png' width=200><br>Character-level language moel<br>(recurrent neural network)</a>
+         <img src='images/rnn.png' width=200><br>Character-level language moel<br>(Recurrent neural network)</a>
     </td>
     <td>
     </td>
