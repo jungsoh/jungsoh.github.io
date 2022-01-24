@@ -1,6 +1,5 @@
 # Jung Soh
 
-
 ## Projects
 <table>
   <tr align='center'>
@@ -55,10 +54,7 @@
   </tr>
 </table>
 
-[About me](#about-me)
-
 ## About me
-    
 I have worked in the field of biological data analysis for the last 15 years, dealing mostly with vast amounts of genomic data for humans and other organisms. In my most recent enterprise position, I designed and built a medical diagnosis product, where prediction of disease onset by machine learning was the key idea. I am actively seeking a data science or machine learning role in other industries as well as biotech, where I can leverage my data analysis experience and computing skills to tackle AI problems.
 
 I have solid foundation in computing skills required to excel in data science and machine learning. I have experience building target prediction pipelines using open-source tools, including Python, SQL, R, Java and ML/DL frameworks such as TensorFlow. I am also eagerly expanding my machine learning and AI skill sets.
