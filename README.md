@@ -48,6 +48,8 @@
          <img src='images/content_plus_style.png' width=180><br>Merging content and style<br>(neural style transfer)</a>
     </td>
     <td>
+       <a href='https://jungsoh.github.io/rnn-character-level-language-model'>
+         <img src='images/rnn.png' width=200><br>Character-level language moel<br>(recurrent neural network)</a>
     </td>
     <td>
     </td>
