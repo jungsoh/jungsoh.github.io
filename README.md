@@ -1,16 +1,6 @@
 # Jung Soh
 
-I have worked in the field of biological data analysis for the last 15 years, dealing mostly with vast amounts of genomic data for humans and other organisms. In my most recent enterprise position, I designed and built a medical diagnosis product, where prediction of disease onset by machine learning was the key idea. I am actively seeking a data science or machine learning role in other industries as well as biotech, where I can leverage my data analysis experience and computing skills to tackle AI problems .
-
-I have solid foundation in computing skills required to excel in data science and machine learning. I have experience building target prediction pipelines using open-source tools, including Python, SQL, R, Java and ML/DL frameworks such as TensorFlow. I am also eagerly expanding my machine learning and AI skill sets.
-
-My earlier work before biological data analysis was on computer vision, including object detection, video processing and face/gesture recognition, with about 13 years of experience. I am updating these foundational skills in the context of deep learning to be able to solve significant computer vision problems with deep neural networks.
-
-I have experience managing several multi-disciplinary teams and collaborated with subject matter experts with diverse expertise, including statisticians, biologists, IT administrators, and project managers.
-
 ## Projects
-I have just started uploading my machine learning projects, so the list is expanding.
-
 <table>
   <tr align='center'>
     <td>
@@ -23,7 +13,7 @@ I have just started uploading my machine learning projects, so the list is expan
     </td>
     <td>
       <a href='https://jungsoh.github.io/cnn-face-mood-classification'>
-        <img src='images/happy_sad_balloons.jpg' width=120><br>Face mood classification<br>(convolutional neural network)</a>
+        <img src='images/happy_sad_balloons.jpg' width=160><br>Face mood classification<br>(convolutional neural network)</a>
     </td>
     <td>
       <a href='https://jungsoh.github.io/cnn-sign-language-recognition'>
@@ -64,6 +54,15 @@ I have just started uploading my machine learning projects, so the list is expan
   </tr>
 </table>
 
+## About me
+I have worked in the field of biological data analysis for the last 15 years, dealing mostly with vast amounts of genomic data for humans and other organisms. In my most recent enterprise position, I designed and built a medical diagnosis product, where prediction of disease onset by machine learning was the key idea. I am actively seeking a data science or machine learning role in other industries as well as biotech, where I can leverage my data analysis experience and computing skills to tackle AI problems.
+
+I have solid foundation in computing skills required to excel in data science and machine learning. I have experience building target prediction pipelines using open-source tools, including Python, SQL, R, Java and ML/DL frameworks such as TensorFlow. I am also eagerly expanding my machine learning and AI skill sets.
+
+My earlier work before biological data analysis was on computer vision, including object detection, video processing and face/gesture recognition, with about 13 years of experience. I am updating these foundational skills in the context of deep learning to be able to solve significant computer vision problems with deep neural networks.
+
+I have experience managing several multi-disciplinary teams and collaborated with subject matter experts with diverse expertise, including statisticians, biologists, IT administrators, and project managers.
+
 ## Teaching
   
 While at [Graz University of Technology](https://tugraz.at/en/home) and earlier at the [University of Calgary](https://ucalgary.ca), I have developed material for and taught courses in Python/R/Bash scripting, bioinformatics labs, and special topics in bioinformatics.
@@ -101,4 +100,5 @@ I am an inventor on several issued US patents. The fields of invention include m
 - [Sun Certified Programmer for the Java 2 Platform, Standard Edition 5.0](certs/scjp50.pdf), Sun Microsystems, Jul 2005
 
 ## More information
-For more information about me, you can see my [LinkedIn](https://www.linkedin.com/in/jungsoh/) and [GitHub](https://github.com/jungsoh).
+- Please see my [LinkedIn](https://www.linkedin.com/in/jungsoh/) for more information about me including my experience.
+- Please see my [GitHub](https://github.com/jungsoh) for details on my projects and teaching.
