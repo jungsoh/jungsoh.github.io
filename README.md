@@ -100,4 +100,5 @@ I am an inventor on several issued US patents. The fields of invention include m
 - [Sun Certified Programmer for the Java 2 Platform, Standard Edition 5.0](certs/scjp50.pdf), Sun Microsystems, Jul 2005
 
 ## More information
-For more information about me, you can see my [LinkedIn](https://www.linkedin.com/in/jungsoh/) and [GitHub](https://github.com/jungsoh).
+- Please see my [LinkedIn](https://www.linkedin.com/in/jungsoh/) for more information about me including my experience.
+- Please see my [GitHub](https://github.com/jungsoh) for details on my projects and teaching.
