@@ -56,6 +56,18 @@
          <img src='images/jazz.jpg' width=160><br>Music generation<br>(LSTM)</a>
     </td>
   </tr>
+  <tr align='center'>
+    <td>
+       <a href='https://jungsoh.github.io/wordvecs-word-analogy-by-document-similarity'>
+        <img src='images/cosim.png' width=200><br>Word analogy by document similarity<br>(Word vectors)</a>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
 </table>
 
 ## About me
