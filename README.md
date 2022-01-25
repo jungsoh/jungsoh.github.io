@@ -59,7 +59,7 @@
   <tr align='center'>
     <td>
        <a href='https://jungsoh.github.io/wordvecs-word-analogy-by-document-similarity'>
-        <img src='images/cosim.png' width=200><br>Word analogy by document similarity<br>(Word vectors)</a>
+        <img src='images/cosim_crop.png' width=200><br>Word analogy by document similarity<br>(Word vectors)</a>
     </td>
     <td>
     </td>
