@@ -62,6 +62,8 @@
         <img src='images/cosim_crop.png' width=200><br>Word analogy by document similarity<br>(Word vectors)</a>
     </td>
     <td>
+       <a href='https://jungsoh.github.io/wordvecs-sentiment-classification'>
+        <img src='images/dataset_kiank.png' width=180><br>Sentiment classification<br>(Word vectors)</a>
     </td>
     <td>
     </td>
