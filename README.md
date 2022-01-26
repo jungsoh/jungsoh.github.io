@@ -67,7 +67,7 @@
     </td>
     <td>
        <a href='https://jungsoh.github.io/attnmech-neural-machine-translation'>
-        <img src='images/attn_model.png' width=180><br>Neural machine translation<br>(Attention mechanism)</a>
+        <img src='images/attn_model.png' width=160><br>Neural machine translation<br>(Attention mechanism)</a>
     </td>
     <td>
     </td>
