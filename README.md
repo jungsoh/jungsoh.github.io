@@ -70,6 +70,8 @@
         <img src='images/attn_model.png' width=160><br>Neural machine translation<br>(Attention mechanism)</a>
     </td>
     <td>
+       <a href='https://jungsoh.github.io/gru-trigger-word-detection'>
+        <img src='images/spectogram_prob.png' width=180><br>Trigger word detection<br>(Gated recurrent units)</a>
     </td>
   </tr>
 </table>
