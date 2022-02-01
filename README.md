@@ -4,20 +4,20 @@
 <table>
   <tr align='center'>
     <td>
-      <a href='https://jungsoh.github.io/dnn-cat-vs-noncat-classification'>
-        <img src='images/white_cat.jpg' width=160><br>Cat vs non-cat classification<br>(Deep neural network)</a>
+      <a href='https://jungsoh.github.io/unet-semantic-image-segmentation'>
+        <img src='images/carseg.png' width=200><br>Semantic image segmentation<br>(U-Net)</a>
     </td>
     <td>
-      <a href='https://jungsoh.github.io/dnn-sign-language-recognition'>
-        <img src='images/thumbs_up.jpg' width=120><br>Sign language recognition<br>(Deep neural network)</a>
+      <a href='https://jungsoh.github.io/yolo-car-detection-for-autonomous-driving'>
+        <img src='images/proba_map.png' width=200><br>Car detection for autonomous driving<br>(YOLO algorithm)</a>
     </td>
     <td>
-      <a href='https://jungsoh.github.io/cnn-face-mood-classification'>
-        <img src='images/happy_sad_balloons.jpg' width=160><br>Face mood classification<br>(Convolutional neural network)</a>
+      <a href='https://jungsoh.github.io/facenet-face-verification-and-face-recognition'>
+        <img src='images/jung.jpg' width=120><br>Face verification and face recognition<br>(FaceNet)</a>
     </td>
     <td>
-      <a href='https://jungsoh.github.io/cnn-sign-language-recognition'>
-      <img src='images/cnn_sign_lang.png' width=200><br>Sign language recognition<br>(Convolutional neural network)</a>
+      <a href='https://jungsoh.github.io/tl-mobilenetv2-alpaca-vs-nonalpaca-classification'>
+        <img src='images/alpaca.png' width=120><br>Alcapa vs non-alcapa classification<br>(Transfer learning with MobileNetV2)</a>
     </td>
   </tr>
   <tr align='center'>
@@ -26,22 +26,22 @@
         <img src='images/resnet_kiank.png' width=200><br>Sign language recogntion<br>(Residual neural network)</a>
     </td>
     <td>
-      <a href='https://jungsoh.github.io/tl-mobilenetv2-alpaca-vs-nonalpaca-classification'>
-        <img src='images/alpaca.png' width=120><br>Alcapa vs non-alcapa classification<br>(Transfer learning with MobileNetV2)</a>
+      <a href='https://jungsoh.github.io/cnn-face-mood-classification'>
+        <img src='images/happy_sad_balloons.jpg' width=160><br>Face mood classification<br>(Convolutional neural network)</a>
     </td>
     <td>
-       <a href='https://jungsoh.github.io/yolo-car-detection-for-autonomous-driving'>
-        <img src='images/proba_map.png' width=200><br>Car detection for autonomous driving<br>(YOLO algorithm)</a>
+      <a href='https://jungsoh.github.io/dnn-sign-language-recognition'>
+        <img src='images/thumbs_up.jpg' width=120><br>Sign language recognition<br>(Deep neural network)</a>
     </td>
     <td>
-       <a href='https://jungsoh.github.io/unet-semantic-image-segmentation'>
-        <img src='images/carseg.png' width=200><br>Semantic image segmentation<br>(U-Net)</a>
+      <a href='https://jungsoh.github.io/dnn-cat-vs-noncat-classification'>
+        <img src='images/white_cat.jpg' width=160><br>Cat vs non-cat classification<br>(Deep neural network)</a>
     </td>
   </tr>
   <tr align='center'>
     <td>
-       <a href='https://jungsoh.github.io/facenet-face-verification-and-face-recognition'>
-        <img src='images/jung.jpg' width=120><br>Face verification and face recognition<br>(FaceNet)</a>
+      <a href='https://jungsoh.github.io/cnn-sign-language-recognition'>
+        <img src='images/cnn_sign_lang.png' width=200><br>Sign language recognition<br>(Convolutional neural network)</a>
     </td>
     <td>
        <a href='https://jungsoh.github.io/nst-merging-content-and-style'>
