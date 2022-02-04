@@ -66,7 +66,7 @@
         <img src='images/dataset_kiank.png' width=180><br>Sentiment classification<br>(Word vectors)</a>
     </td>
     <td>
-       <a href='https://jungsoh.github.io/attnmech-neural-machine-translation'>
+       <a href='https://jungsoh.github.io/attention-neural-machine-translation'>
         <img src='images/attn_model.png' width=160><br>Neural machine translation<br>(Attention mechanism)</a>
     </td>
     <td>
