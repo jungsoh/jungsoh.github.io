@@ -74,6 +74,10 @@
         <img src='images/spectogram_prob.png' width=180><br>Trigger word detection<br>(Gated recurrent units)</a>
     </td>
   </tr>
+    <td>
+       <a href='https://jungsoh.github.io/transformers-named-entity-recognition'>
+        <img src='images/ner.png' width=180><br>Named entity recognition<br>(Transformer network)</a>
+    </td>
 </table>
 
 ## About me
