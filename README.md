@@ -15,17 +15,17 @@
     </td>
     <td>
        <a href='https://jungsoh.github.io/wordvecs-sentiment-classification'>
-        <img src='images/dataset_kiank.png' width=180><br>Sentiment classification<br>(Word vectors)</a>
+        <img src='images/dataset_kiank.png' width=200><br>Sentiment classification<br>(Word vectors)</a>
     </td>
   </tr>
   <tr align='center'>
     <td>
        <a href='https://jungsoh.github.io/attention-neural-machine-translation'>
-        <img src='images/attn_model.png' width=160><br>Neural machine translation<br>(Attention mechanism)</a>
+        <img src='images/attn_model.png' width=200><br>Neural machine translation<br>(Attention mechanism)</a>
     </td>
     <td>
        <a href='https://jungsoh.github.io/transformers-named-entity-recognition'>
-        <img src='images/ner.png' width=160><br>Named entity recognition<br>(Transformer network)</a>
+        <img src='images/ner.png' width=140><br>Named entity recognition<br>(Transformer network)</a>
     </td>
     <td>
     </td>
@@ -37,7 +37,7 @@
   <tr align='center'>
     <td>
       <a href='https://jungsoh.github.io/unet-semantic-image-segmentation'>
-        <img src='images/carseg.png' width=200><br>Semantic image segmentation<br>(U-Net)</a>
+        <img src='images/carseg.png' width=180><br>Semantic image segmentation<br>(U-Net)</a>
     </td>
     <td>
       <a href='https://jungsoh.github.io/yolo-car-detection-for-autonomous-driving'>
@@ -47,6 +47,7 @@
       <a href='https://jungsoh.github.io/facenet-face-verification-and-face-recognition'>
         <img src='images/jung.jpg' width=120><br>Face verification and face recognition<br>(FaceNet)</a>
     </td>
+  </tr>
   <tr align='center'>
     <td>
       <a href='https://jungsoh.github.io/tl-mobilenetv2-alpaca-vs-nonalpaca-classification'>
@@ -72,37 +73,25 @@
     </td>
     <td>
       <a href='https://jungsoh.github.io/cnn-sign-language-recognition'>
-        <img src='images/cnn_sign_lang.png' width=200><br>Sign language recognition<br>(Convolutional neural network)</a>
+        <img src='images/cnn_sign_lang.png' width=180><br>Sign language recognition<br>(Convolutional neural network)</a>
     </td>
   </tr>
 </table>
 
-### Art and music generation
+### Art, music and audio
 <table>
   <tr align='center'>
     <td>
        <a href='https://jungsoh.github.io/nst-merging-content-and-style'>
-         <img src='images/content_plus_style.png' width=180><br>Merging content and style<br>(Neural style transfer)</a>
+         <img src='images/content_plus_style.png' width=200><br>Merging content and style<br>(Neural style transfer)</a>
     </td>
     <td>
        <a href='https://jungsoh.github.io/lstm-music-generation'>
-         <img src='images/jazz.jpg' width=160><br>Music generation<br>(LSTM)</a>
+         <img src='images/jazz.jpg' width=180><br>Music generation<br>(LSTM)</a>
     </td>
-    <td>
-    </td>
-  </tr>
-</table>
-
-### Audio processing
-<table>
-  <tr align='center'>
     <td>
        <a href='https://jungsoh.github.io/gru-trigger-word-detection'>
-        <img src='images/spectogram_prob.png' width=180><br>Trigger word detection<br>(Gated recurrent units)</a>
-    </td>
-    <td>
-    </td>
-    <td>
+        <img src='images/spectogram_prob.png' width=200><br>Trigger word detection<br>(Gated recurrent units)</a>
     </td>
   </tr>
 </table>
