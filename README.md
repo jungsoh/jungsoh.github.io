@@ -1,6 +1,38 @@
 # Jung Soh
 
 ## Projects
+
+### NLP
+<table>
+  <tr align='center'>
+    <td>
+       <a href='https://jungsoh.github.io/rnn-character-level-language-model'>
+         <img src='images/rnn.png' width=200><br>Character-level language model<br>(Recurrent neural network)</a>
+    </td>
+    <td>
+       <a href='https://jungsoh.github.io/wordvecs-word-analogy-by-document-similarity'>
+        <img src='images/cosim_crop.png' width=200><br>Word analogy by document similarity<br>(Word vectors)</a>
+    </td>
+    <td>
+       <a href='https://jungsoh.github.io/wordvecs-sentiment-classification'>
+        <img src='images/dataset_kiank.png' width=180><br>Sentiment classification<br>(Word vectors)</a>
+    </td>
+  </tr>
+  <tr align='center'>
+    <td>
+       <a href='https://jungsoh.github.io/attention-neural-machine-translation'>
+        <img src='images/attn_model.png' width=160><br>Neural machine translation<br>(Attention mechanism)</a>
+    </td>
+    <td>
+       <a href='https://jungsoh.github.io/transformers-named-entity-recognition'>
+        <img src='images/ner.png' width=160><br>Named entity recognition<br>(Transformer network)</a>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
+
+### Computer vision
 <table>
   <tr align='center'>
     <td>
@@ -15,12 +47,11 @@
       <a href='https://jungsoh.github.io/facenet-face-verification-and-face-recognition'>
         <img src='images/jung.jpg' width=120><br>Face verification and face recognition<br>(FaceNet)</a>
     </td>
+  <tr align='center'>
     <td>
       <a href='https://jungsoh.github.io/tl-mobilenetv2-alpaca-vs-nonalpaca-classification'>
         <img src='images/alpaca.png' width=120><br>Alcapa vs non-alcapa classification<br>(Transfer learning with MobileNetV2)</a>
     </td>
-  </tr>
-  <tr align='center'>
     <td>
       <a href='https://jungsoh.github.io/resnet-sign-language-recognition'>
         <img src='images/resnet_kiank.png' width=200><br>Sign language recogntion<br>(Residual neural network)</a>
@@ -29,6 +60,8 @@
       <a href='https://jungsoh.github.io/cnn-face-mood-classification'>
         <img src='images/happy_sad_balloons.jpg' width=160><br>Face mood classification<br>(Convolutional neural network)</a>
     </td>
+  </tr>
+  <tr align='center'>
     <td>
       <a href='https://jungsoh.github.io/dnn-sign-language-recognition'>
         <img src='images/thumbs_up.jpg' width=120><br>Sign language recognition<br>(Deep neural network)</a>
@@ -37,47 +70,37 @@
       <a href='https://jungsoh.github.io/dnn-cat-vs-noncat-classification'>
         <img src='images/white_cat.jpg' width=160><br>Cat vs non-cat classification<br>(Deep neural network)</a>
     </td>
-  </tr>
-  <tr align='center'>
     <td>
       <a href='https://jungsoh.github.io/cnn-sign-language-recognition'>
         <img src='images/cnn_sign_lang.png' width=200><br>Sign language recognition<br>(Convolutional neural network)</a>
     </td>
+  </tr>
+</table>
+
+### Art and music generation
+<table>
+  <tr align='center'>
     <td>
        <a href='https://jungsoh.github.io/nst-merging-content-and-style'>
          <img src='images/content_plus_style.png' width=180><br>Merging content and style<br>(Neural style transfer)</a>
     </td>
     <td>
-       <a href='https://jungsoh.github.io/rnn-character-level-language-model'>
-         <img src='images/rnn.png' width=200><br>Character-level language model<br>(Recurrent neural network)</a>
-    </td>
-    <td>
        <a href='https://jungsoh.github.io/lstm-music-generation'>
          <img src='images/jazz.jpg' width=160><br>Music generation<br>(LSTM)</a>
     </td>
+    <td>
+    </td>
   </tr>
+</table>
+
+### Audio processing
+<table>
   <tr align='center'>
-    <td>
-       <a href='https://jungsoh.github.io/wordvecs-word-analogy-by-document-similarity'>
-        <img src='images/cosim_crop.png' width=200><br>Word analogy by document similarity<br>(Word vectors)</a>
-    </td>
-    <td>
-       <a href='https://jungsoh.github.io/wordvecs-sentiment-classification'>
-        <img src='images/dataset_kiank.png' width=180><br>Sentiment classification<br>(Word vectors)</a>
-    </td>
-    <td>
-       <a href='https://jungsoh.github.io/attention-neural-machine-translation'>
-        <img src='images/attn_model.png' width=160><br>Neural machine translation<br>(Attention mechanism)</a>
-    </td>
     <td>
        <a href='https://jungsoh.github.io/gru-trigger-word-detection'>
         <img src='images/spectogram_prob.png' width=180><br>Trigger word detection<br>(Gated recurrent units)</a>
     </td>
   </tr>
-    <td>
-       <a href='https://jungsoh.github.io/transformers-named-entity-recognition'>
-        <img src='images/ner.png' width=180><br>Named entity recognition<br>(Transformer network)</a>
-    </td>
 </table>
 
 ## About me
