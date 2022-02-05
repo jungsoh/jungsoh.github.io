@@ -29,7 +29,7 @@
     </td>
     <td>
        <a href='https://jungsoh.github.io/transformers-question-answering'>
-         <img src='images/q_and_a.jpg' width=140><br>Question answering<br>(Transformer network)</a>
+         <img src='images/q_and_a.png' width=140><br>Question answering<br>(Transformer network)</a>
     </td>
   </tr>
 </table>
