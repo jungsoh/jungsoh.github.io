@@ -2,7 +2,7 @@
 
 ## Projects
 
-### NLP
+### Natural language processing
 <table>
   <tr align='center'>
     <td>
@@ -11,23 +11,25 @@
     </td>
     <td>
        <a href='https://jungsoh.github.io/wordvecs-word-analogy-by-document-similarity'>
-        <img src='images/cosim_crop.png' width=200><br>Word analogy by document similarity<br>(Word vectors)</a>
+         <img src='images/cosim_crop.png' width=200><br>Word analogy by document similarity<br>(Word vectors)</a>
     </td>
     <td>
        <a href='https://jungsoh.github.io/wordvecs-sentiment-classification'>
-        <img src='images/dataset_kiank.png' width=200><br>Sentiment classification<br>(Word vectors)</a>
+         <img src='images/dataset_kiank.png' width=200><br>Sentiment classification<br>(Word vectors)</a>
     </td>
   </tr>
   <tr align='center'>
     <td>
        <a href='https://jungsoh.github.io/attention-neural-machine-translation'>
-        <img src='images/attn_model.png' width=200><br>Neural machine translation<br>(Attention mechanism)</a>
+         <img src='images/attn_model.png' width=200><br>Neural machine translation<br>(Attention mechanism)</a>
     </td>
     <td>
        <a href='https://jungsoh.github.io/transformers-named-entity-recognition'>
         <img src='images/ner.png' width=140><br>Named entity recognition<br>(Transformer network)</a>
     </td>
     <td>
+       <a href='https://jungsoh.github.io/transformers-question-answering'>
+         <img src='images/q_and_a.jpg' width=140><br>Question answering<br>(Transformer network)</a>
     </td>
   </tr>
 </table>
@@ -78,7 +80,7 @@
   </tr>
 </table>
 
-### Art, music and speech
+### Art generation, music generation and speech recognition
 <table>
   <tr align='center'>
     <td>
