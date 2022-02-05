@@ -78,7 +78,7 @@
   </tr>
 </table>
 
-### Art, music and audio
+### Art, music and speech
 <table>
   <tr align='center'>
     <td>
