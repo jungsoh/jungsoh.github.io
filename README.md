@@ -113,6 +113,8 @@ I have experience managing several multi-disciplinary teams and collaborated wit
 - B.S. Electrical Engineering, University of Wisconsin-Madison
 
 ## Certifications
+- [Introduction to Big Data](https://www.coursera.org/account/accomplishments/certificate/ZT2YZBUQW7A5), Coursera, by University of California San Diego, Feb 2022
+- [Business Analytics for Decision Making](https://www.coursera.org/account/accomplishments/certificate/Y996QP49CRDC), Coursera, by University of Colorado Boulder, Feb 2022
 - [Customer Analytics](https://www.coursera.org/account/accomplishments/certificate/92KDHD9R93UL), Coursera, by The Wharton School, Feb 2022
 - [Machine Learning with TensorFlow on Google Cloud Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/GV5XVN7LY8FQ), Coursera, by Google Cloud, Dec 2021
 - [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/4Y69NCMCBNW3), Coursera, by DeepLearning.AI, Oct 2021
