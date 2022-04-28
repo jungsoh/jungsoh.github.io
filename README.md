@@ -113,15 +113,16 @@ I have experience managing several multi-disciplinary teams and collaborated wit
 - B.S. Electrical Engineering, University of Wisconsin-Madison
 
 ## Certifications
-- [Introduction to Big Data](https://www.coursera.org/account/accomplishments/certificate/ZT2YZBUQW7A5), Coursera, by University of California San Diego, Feb 2022
-- [Business Analytics for Decision Making](https://www.coursera.org/account/accomplishments/certificate/Y996QP49CRDC), Coursera, by University of Colorado Boulder, Feb 2022
-- [Customer Analytics](https://www.coursera.org/account/accomplishments/certificate/92KDHD9R93UL), Coursera, by University of Pennsylvania, Feb 2022
-- [Machine Learning with TensorFlow on Google Cloud Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/GV5XVN7LY8FQ), Coursera, by Google Cloud, Dec 2021
+- [Practical Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/4A9ZWX7ZY6M2), Amazon Web Services & DeepLearning.AI, Apr 2022
+- [Introduction to Big Data](https://www.coursera.org/account/accomplishments/certificate/ZT2YZBUQW7A5), University of California San Diego, Feb 2022
+- [Business Analytics for Decision Making](https://www.coursera.org/account/accomplishments/certificate/Y996QP49CRDC), University of Colorado Boulder, Feb 2022
+- [Customer Analytics](https://www.coursera.org/account/accomplishments/certificate/92KDHD9R93UL), University of Pennsylvania, Feb 2022
+- [Machine Learning on Google Cloud Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/GV5XVN7LY8FQ), Google Cloud, Dec 2021
 - [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/4Y69NCMCBNW3), Coursera, by DeepLearning.AI, Oct 2021
-- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/AVQ6HFNUEJJ8), Coursera, by DeepLearning.AI, Oct 2021
-- [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/45VRDQRQJ8WD), Coursera, by Google, Nov 2021
-- [Advance Your Skills in Predictive Analytics](certs/predictive_analytics.pdf), LinkedIn Learning Path, Apr 2021
-- [Understanding Cloud Fundamentals](certs/cloud_fundamentals.pdf), LinkedIn Learning Path, Apr 2021
+- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/AVQ6HFNUEJJ8), DeepLearning.AI, Oct 2021
+- [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/45VRDQRQJ8WD), Google, Nov 2021
+- [Advance Your Skills in Predictive Analytics Learning Path](certs/predictive_analytics.pdf), LinkedIn, Apr 2021
+- [Understanding Cloud Fundamentals Learning Path](certs/cloud_fundamentals.pdf), LinkedIn, Apr 2021
 - [Sun Certified Web Component Developer for the Java 2 Platform, Enterprise Edition 1.4](certs/scwcd14.pdf), Sun Microsystems, Oct 2005
 - [Sun Certified Programmer for the Java 2 Platform, Standard Edition 5.0](certs/scjp50.pdf), Sun Microsystems, Jul 2005
 
