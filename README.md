@@ -118,7 +118,7 @@ I have experience managing several multi-disciplinary teams and collaborated wit
 - [Business Analytics for Decision Making](https://www.coursera.org/account/accomplishments/certificate/Y996QP49CRDC), University of Colorado Boulder, Feb 2022
 - [Customer Analytics](https://www.coursera.org/account/accomplishments/certificate/92KDHD9R93UL), University of Pennsylvania, Feb 2022
 - [Machine Learning on Google Cloud Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/GV5XVN7LY8FQ), Google Cloud, Dec 2021
-- [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/4Y69NCMCBNW3), Coursera, by DeepLearning.AI, Oct 2021
+- [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/4Y69NCMCBNW3), DeepLearning.AI, Oct 2021
 - [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/AVQ6HFNUEJJ8), DeepLearning.AI, Oct 2021
 - [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/45VRDQRQJ8WD), Google, Nov 2021
 - [Advance Your Skills in Predictive Analytics Learning Path](certs/predictive_analytics.pdf), LinkedIn, Apr 2021
