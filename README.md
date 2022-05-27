@@ -113,7 +113,7 @@ I have experience managing several multi-disciplinary teams and collaborated wit
 - B.S. Electrical Engineering, University of Wisconsin-Madison
 
 ## Certifications
-- [Practical Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/4A9ZWX7ZY6M2), Amazon Web Services & DeepLearning.AI, Apr 2022
+- [Practical Data Science on the AWS Cloud Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/4A9ZWX7ZY6M2), Amazon Web Services & DeepLearning.AI, Apr 2022
 - [Introduction to Big Data](https://www.coursera.org/account/accomplishments/certificate/ZT2YZBUQW7A5), University of California San Diego, Feb 2022
 - [Business Analytics for Decision Making](https://www.coursera.org/account/accomplishments/certificate/Y996QP49CRDC), University of Colorado Boulder, Feb 2022
 - [Customer Analytics](https://www.coursera.org/account/accomplishments/certificate/92KDHD9R93UL), University of Pennsylvania, Feb 2022
